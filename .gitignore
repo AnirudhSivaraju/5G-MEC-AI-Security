@@ -1,0 +1,12 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+*.log
+ue_security_audit.csv
+ue_monitoring_results.csv
